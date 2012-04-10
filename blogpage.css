@@ -1,0 +1,118 @@
+/*Blog Page Formatting*/
+
+img#blogbanner
+{
+width:518px;
+height:90px;
+}
+
+p.main-content{
+font-size:12px;
+}
+
+.blogentry
+{
+font-size:12px;
+color:#969696;
+padding-bottom:10px;
+padding-top:10px;}
+
+.blogentry h2
+{
+color:#00007a;
+font-size:25px;
+padding:0;}
+
+.blogentry p
+{
+color:black;}
+
+/*Read More>>*/
+.blogentry p.readblogbutton 
+{
+color:#00007a;
+text-align:right;
+}
+
+/*Comments Add Comment Share*/
+.blogentry ul.bottomblogentry 
+{
+padding:0;
+margin:0;
+color:#00007a;
+list-style-type:none;
+font-size:12px;
+text-align:left;
+}
+
+.blogentry ul.bottomblogentry li
+{
+display:inline;
+padding-right:15px;
+}
+
+.blogentry ul.bottomblogentry li a
+{ 
+text-decoration:none;
+color:#00007a;
+}
+
+.blogentry a
+{
+color:#00007a;
+text-decoration:none;}
+
+.blogentry a:hover
+{
+color:#285ef9;
+}
+
+/*1 2 3 4 5 Next Last*/
+
+ul.bottomblogentry 
+{
+padding:0;
+margin:0;
+color:#00007a;
+list-style-type:none;
+font-size:12px;
+text-align:right;
+padding-bottom:20px;
+}
+
+ul.bottomblogentry li
+{
+display:inline;
+padding-left:15px;
+}
+
+ul.bottomblogentry li a
+{ 
+text-decoration:none;
+color:#00007a;
+}
+
+ul.bottomblogentry li a:hover
+{
+color:#285ef9;
+}
+
+.blogentry a
+{
+color:#00007a;
+text-decoration:none;}
+
+.blogentry a:hover
+{
+color:#285ef9;
+}
+
+.blogentry img#blogdivider
+{
+padding:0;
+margin:0;
+width:578px;
+height:1px;
+padding-top:20px;
+}
+/*Main Content Formatting*/
